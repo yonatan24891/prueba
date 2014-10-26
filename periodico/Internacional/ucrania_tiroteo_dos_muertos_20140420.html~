@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+<head> 
+    <meta charset="UTF-8">
+    <title>The Day</title>
+</head>
+<body>
+    
+    <header>
+        <h1>The Day</h1>
+    </header>
+    
+	<nav>
+		<ul>
+			<li><a href="Nacional.html">Nacional</a></li>
+			<li><a href="Economia.html">Economia</a></li>
+			<li><a href="Sociedad.html">Sociedad</a></li>
+			<li><a href="Internacional.html">Internacional</a></li>
+			<li><a href="Deportes.html">Deportes</a></li>
+		</ul>
+	</nav>
+
+	<h2>INTERNACIONAL</h2>
+
+	<article>
+		
+			<h2> La tregua en Ucrania salta por los aires tras un tiroteo con al menos dos muertos</h2>
+			<p>Reuters</p>
+			<figure>
+				<img src = "ucrania_tiroteo_dos_muertos_20140420/Rusia-cree-que-Ucrania-ha-interpretado-err-neamente-el-acuerdo-de-Ginebra.jpg" alt = "figura de ejemplo" />
+				<figcaption>Soldado ucraniano armado</figcaption>
+			</figure>
+			<p> La tregua entre las autoridades de Kiev y los separatistas prorrusos con ocasión de la Pascua ortodoxa ha saltado por los aires en la madrugada del domingo al producirse un tiroteo, en el que al menos dos personas han muerto, cerca de Slaviansk, una de las ciudades del este de Ucrania tomadas por los rebeldes. El choque, ocurrido en un puesto de control, pone en entredicho el frágil acuerdo internacional por el que Rusia había aceptado el desarme de las milicias.
+
+Activistas prorrusos han contado a la agencia Reuters que un convoy de cuatro vehículos se aproximó a un puesto de control de las milicias a las dos de la madrugada (medianoche en la España peninsular) y abrieron fuego. "Tenemos tres muertos y cuatro heridos", ha asegurado uno de ellos. Según su versión, devolvieron los disparos y mataron a dos de los atacantes, a los que identificó como miembros del Sector de la Derecha, un grupo al que se vincula con el Gobierno de Kiev. Esta versión coincide con la difundida por los medios de comunicación rusos, mientras que el Ministerio del Interior ucranio ha confirmado solo un muerto y tres heridos.</p>
+	
+	</article>
+
+	<article>
+			<h2> Opiniones de los lectores</h2>
+			<p>Autor....</p>
+			
+	</article>
+	
+    <section>
+		
+    </section>
+    
+    <section>
+		
+    </section>
+    
+    <aside> Publicidad1 </aside>
+    <aside> Publicidad2 </aside>
+    <aside> Publicidad3 </aside>	
+    
+    <footer> 
+		EDICION The Day, S.L. Jonathan Mulero López, 
+		<a href="mailto:yonatan@correo.ugr.es">Contacto</a> 
+		<a href="como_se_hizo.pdf">Como se hizo</a>
+		
+    </footer>
+</body>
+</html>

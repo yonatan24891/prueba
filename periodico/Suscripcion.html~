@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="es">
+<head> 
+    <meta charset="UTF-8">
+    <title>The Day</title>
+</head>
+<body>
+    
+    <header>
+        <h1>The Day</h1>
+    </header>
+    
+	<nav>
+		<ul>
+			<li><a href="Nacional.html">Nacional</a></li>
+			<li><a href="Economia.html">Economia</a></li>
+			<li><a href="Sociedad.html">Sociedad</a></li>
+			<li><a href="Internacional.html">Internacional</a></li>
+			<li><a href="Deportes.html">Deportes</a></li>
+		</ul>
+	</nav>
+	
+	<h3>Formularios</h3>
+    	<form action="mailto:yonatan@correo.ugr.es?&subject=Suscripcion" method="post">
+        <fieldset height="400">
+            <legend>Datos Personales</legend> <!--nombre del fieldset-->
+            <label for="campoDeTexto1">Nombre*:</label>
+            <input type="text" id="campoDeTexto1" name="campoDeTexto1" autofocus required />
+            <br/>
+            <label for="campoDeTexto2">Apellidos*:</label>
+            <input type="text" id="campoDeTexto2" name="campoDeTexto2" autofocus required />
+	    <br/>
+	    <label for="campoDeTexto2">DNI*:</label>
+            <input type="text" id="campoDeTexto3" name="campoDeTexto3" autofocus required />
+	    <br/>
+	    <label for="campoDeTexto2">Dirección (Completa)*:</label>
+            <input type="text" id="campoDeTexto4" name="campoDeTexto4" autofocus required />
+	    <br/>
+	    <label for"correo">Email:</label>
+            <input type="email" id="correo"/>
+	    <br/>
+	    <br>
+	    <label for = "radiobutton1">1 mes (5€): </label>
+            <input type = "radio" id = "radiobutton1" name="menu" value = "1mes" checked/>
+            <label for = "radiobutton2">6 meses (20€): </label>
+            <input type = "radio" id = "radiobutton2" name="menu" value = "2meses" />
+            <label for = "radiobutton3">1 año (35€): </label>
+            <input type = "radio" id = "radiobutton3" name="menu" value = "3meses" />
+            <br/>
+	    <br>
+            <label for="textArea1">Comentario</label>
+	    <br/>
+            <textarea id = "textArea1" name="areaTexto" rows="5" cols="80"></textarea>
+        </fieldset>
+        <input type="submit" id="button1" value="Enviar" />
+        <input type="reset" id="button2" value="Reset" />
+        <input type="button" id="button3" value="Acción1" />
+    </form>
+	
+    
+    <aside> Publicidad1 </aside>
+    <aside> Publicidad2 </aside>
+    <aside> Publicidad3 </aside>	
+    
+    <footer> 
+		EDICION The Day, S.L. C/Ancha Nº3 Granada, Jonathan Mulero López, 958654345
+		<a href="como_se_hizo.pdf">Subscríbete</a>
+		<a href="mailto:yonatan@correo.ugr.es">Contacto</a> 
+		<a href="como_se_hizo.pdf">Como se hizo</a>
+		
+    </footer>
+</body>
+</html>
