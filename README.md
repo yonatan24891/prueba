@@ -22,4 +22,4 @@ Creamos la cuenta en OpenShift, ponemos nombre a nuestra aplicación y elegimos 
 ![](./images/Selección_018.png "OpenShift")
 
 
-(Enlace a la página)[http://practica1iv-yonatan24891.rhcloud.com/periodico/]
+[Enlace a la página](http://practica1iv-yonatan24891.rhcloud.com/periodico/)
