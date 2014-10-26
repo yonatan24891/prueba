@@ -1,6 +1,6 @@
 Practica1IV
 ===========
-Plataforma:
+**Plataforma:**
 
 He realizado la practica en OpenShift.
 
@@ -10,7 +10,7 @@ Como se aprecia es una solucion muy completa, y de forma gratuita nos permite te
 
 OpenShift es una plataforma que nos provee servicios PaaS propiedad de RedHat.
 
-Despliegue:
+**Despliegue:**
 
 He utilizado el código de una página web de la asignatura TW del año pasado
 Creamos la cuenta en OpenShift, ponemos nombre a nuestra aplicación y elegimos que será en php y creamos.
